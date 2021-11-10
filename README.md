@@ -1,5 +1,8 @@
+
+<Div align="center">
 [![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=JONGHYEOKLEEE&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGHYEOKLEEE&layout=compact&theme=synthwave)](https://github-readme-stats.vercel.app)
+</Div>
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/></a> &nbsp
