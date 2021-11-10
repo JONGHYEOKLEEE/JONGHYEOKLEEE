@@ -4,5 +4,5 @@
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=MSSQL&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a> &nbsp 
 </p>
