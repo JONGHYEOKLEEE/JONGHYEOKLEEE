@@ -1,1 +1,1 @@
-![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=jonghyeokleee&show_icons=true&theme=merko)
+![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=JONGHYEOKLEEE&show_icons=true&theme=merko)
