@@ -1,7 +1,5 @@
 ![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=JONGHYEOKLEEE&show_icons=true&theme=synthwave)
 
-
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
