@@ -1,17 +1,18 @@
   <div align=center>
 	
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 	
   </div>
-<div align="center">
+  <div align=center>
 	
-	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJONGHYEOKLEEE)](https://hits.seeyoufarm.com) 
+  [![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=JONGHYEOKLEEE&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 	
-	[![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=JONGHYEOKLEEE&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div align=center>
 	
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGHYEOKLEEE&layout=compact&theme=synthwave)](https://github-readme-stats.vercel.app)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGHYEOKLEEE&layout=compact&theme=synthwave)](https://github-readme-stats.vercel.app) 
 	
-</div>
+  </div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a> &nbsp
