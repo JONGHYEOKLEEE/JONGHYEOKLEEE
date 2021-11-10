@@ -1,7 +1,6 @@
-<div align=center>
+
 	![JongHyeok Lee's github stats](https://github-readme-stats.vercel.app/api?username=JONGHYEOKLEEE&show_icons=true&theme=synthwave)
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGHYEOKLEEE&layout=compact&theme=synthwave)
-</div>
 
 
 <p align="center">
